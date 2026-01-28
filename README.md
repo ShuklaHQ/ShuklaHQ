@@ -1,4 +1,6 @@
 # Himanshu Ranjan Shukla 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ShuklaHQ&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 🎓 B.Tech Computer Science & Engineering  
 💼 Aspiring Software Engineer | Web3 & Full-Stack Development  
